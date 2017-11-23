@@ -23,5 +23,9 @@ module.exports = {
     historyApiFallback: true,
     contentBase: './',
     port: '8888'
-  }
+  },
+  watchOptions: {
+    aggregateTimeout: 300,
+    poll: 300
+  },
 };
