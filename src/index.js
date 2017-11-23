@@ -7,7 +7,7 @@ import VideoList from './components/video-list';
 import VideoDetails from './components/video-details';
 import _ from 'lodash';
 
-const YOUTUBE_API_KEY = 'AIzaSyD8r6_Q7hLsyHXfr0EP5OaImlM4ibyb9l0';
+const YOUTUBE_API_KEY = '';
 
 
 class App extends Component {
